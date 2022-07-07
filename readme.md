@@ -2,3 +2,4 @@
 
 ![me](/catwork.png)
 
+[나의 티어](https://solved.ac/profile/tenedict/)
