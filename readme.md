@@ -6,7 +6,7 @@
 
 
 
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tenedict)](https://solved.ac/tenedict)
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tenedict)(https://solved.ac/tenedict)
 
 
 
