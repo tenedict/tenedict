@@ -4,9 +4,12 @@
 
 <a href="https://www.instagram.com/answodbs83/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4400F?style=flat-square&logo=Instagram&logoColor=white"/>
 
+<a href="tenedict@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tenedict@gmail.com"/>
 
 
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tenedict)(https://solved.ac/tenedict)
+
+
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tenedict)
 
 
 
