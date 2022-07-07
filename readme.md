@@ -2,4 +2,5 @@
 
 ![me](/catwork.png)
 
-[나의 티어](https://solved.ac/profile/tenedict/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tenedict)](https://solved.ac/tenedict)
