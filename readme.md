@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=SSan의&nbsp;개발일지&fontSize=85)
 
-<a href="https://www.instagram.com/answodbs83/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4400F?style=flat-square&logo=Instagram&logoColor=white"/>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tenedict@gmail.com)](mailto:tenedict@gmail.com)
+<a href="https://https://www.instagram.com/answodbs83/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4400F?style=flat-square&logo=Instagram&logoColor=white"/>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tenedict@gmail.com)](mailto:tenedict@gmail.com)
 
 
 
